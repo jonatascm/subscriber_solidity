@@ -41,9 +41,9 @@ After compile and test execute the following command:
 
 ## 4. Deployed Contract Address to Rinkeby
 
-Address:
+Address: 0x72280e0A0C1C1c98F1965219B0342082b7B3f5B5
 
-Verified in Etherscan: https://rinkeby.etherscan.io/address/#code
+Verified in Etherscan: https://rinkeby.etherscan.io/address/0x72280e0A0C1C1c98F1965219B0342082b7B3f5B5#code
 
 <br />
 
